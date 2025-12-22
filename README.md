@@ -16,7 +16,7 @@ Replace all [Bracketed Text] with your own details.
 <!-- SOCIALS -->
 
 <p align="center">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/ydv-mohit">
+<a href="https://www.linkedin.com/in/ydv-mohit">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
 </a>
 <a href="mailto:[YourEmail]">
