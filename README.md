@@ -17,12 +17,13 @@ Replace all [Bracketed Text] with your own details.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ydv-mohit">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+  <img draggable="false" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:mahiyad2005@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
+  <img draggable="false" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </p>
+  <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=Spargerx&style=for-the-badge&color=1C8C8C" align=center >
 </div>
 
 # 🍥 About Me
@@ -45,14 +46,11 @@ Current Status: Sleeping
 <div align="center">
 <!-- Theme 'tokyonight' gives it a nice neon/anime aesthetic -->
 <a href="https://github.com/Spargerx">
-<img src= "https://github-readme-stats.vercel.app/api?username=Spargerx&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" align=left />
-<img src="https://nirzak-streak-stats.vercel.app/?user=Spargerx&theme=dark&hide_border=true" align=right /> <br/>
+<img src= "https://github-readme-stats.vercel.app/api?username=Spargerx&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Spargerx&theme=dark&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spargerx&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </a>
-</div> <br/>
-
-
-<div align="center">
-<!-- Visitor Counter -->
-<img src="https://visitcount.itsvg.in/api?id=Spargerx&icon=0&color=0" alt="Visitor Count" />
 </div>
+
+
+
