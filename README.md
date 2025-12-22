@@ -11,15 +11,12 @@ Replace all [Bracketed Text] with your own details.
 
 <h1 align="center"> Konnichiwa! I'm Spargerx (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ </h1>
 
-<h3 align="center"> ⚡ Full Stack Developer | 🎌 Otaku | 🎮 Gamer </h3>
+<h3 align="center"> ⚡ Full Stack | App Developer </h3>
 
 <!-- SOCIALS -->
 
 <p align="center">
-<a href="https://twitter.com/[YourTwitter]">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter"/>
-</a>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/[YourLinkedIn]">
+<a href="https://www.google.com/search?q=https://linkedin.com/in/ydv-mohit">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
 </a>
 <a href="mailto:[YourEmail]">
