@@ -55,6 +55,7 @@ Current Status: [ Awake / Coding / Sleeping ]
 <a href="https://github.com/Spargerx">
 <img src= "https://github-readme-stats.vercel.app/api?username=Spargerx&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" align=left />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spargerx&theme=tokyonight&hide_border=true" align=right />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spargerx&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </a>
 </div>
 
