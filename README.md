@@ -49,7 +49,7 @@ Current Status: Sleeping
 <img src="https://nirzak-streak-stats.vercel.app/?user=Spargerx&theme=dark&hide_border=true" align=right /> <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spargerx&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </a>
-</div>
+</div> <br/>
 
 
 <div align="center">
