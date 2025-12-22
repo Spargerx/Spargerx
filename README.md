@@ -53,8 +53,8 @@ Current Status: [ Awake / Coding / Sleeping ]
 <div align="center">
 <!-- Theme 'tokyonight' gives it a nice neon/anime aesthetic -->
 <a href="https://github.com/Spargerx">
-<img height="180em" src="https://github-readme-stats.vercel.app/api%3Fusername%3DSpargerx%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSpargerx%26layout%3Dcompact%26theme%3Dtokyonight"/>
+<img src= "https://github-readme-stats.vercel.app/api?username=Spargerx&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" align=left />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Spargerx&theme=tokyonight&hide_border=true" align=right />
 </a>
 </div>
 
