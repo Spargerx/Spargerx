@@ -46,9 +46,9 @@ Current Status: Sleeping
 <div align="center">
 <!-- Theme 'tokyonight' gives it a nice neon/anime aesthetic -->
 <a href="https://github.com/Spargerx">
-<img src= "https://github-readme-stats.vercel.app/api?username=Spargerx&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=Spargerx&theme=dark&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spargerx&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+<img src= "https://github-readme-stats.vercel.app/api?username=Spargerx&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" /> <br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Spargerx&theme=dark&hide_border=true" /> <br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spargerx&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" /> <br/>
 </a>
 </div>
 
