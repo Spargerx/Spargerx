@@ -7,20 +7,20 @@ Replace all [Bracketed Text] with your own details.
 
 <!-- HEADER IMAGE: Replace this URL with a GIF from your favorite anime (e.g., "coding anime gif" on Giphy) -->
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtlaTVicGtqbGlvcTl1cHVjZmtwMm1xeWxnd2t3Z3FwZ3hiNzBtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SO7qOXXG1lmRdJE8OG/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWFsdG5jbDN2ajk5ZXF4dXIxczMzMjJqeHA2MDNwdDVkOHFvMDdueCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FWtVYDHIxgGgE/giphy.gif" width="100%" />
 
-<h1 align="center"> Konnichiwa! I'm Spargerx (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ </h1>
+<h1 align="center"> Hey there Traveller! I'm Mohit (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ </h1>
 
-<h3 align="center"> ⚡ Full Stack | App Developer </h3>
+<h3 align="center"> ⚡ Full Stack | 📱 App Developer </h3>
 
 <!-- SOCIALS -->
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ydv-mohit">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
 </a>
-<a href="mailto:[YourEmail]">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
+<a href="mailto:mahiyad2005@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
 </a>
 </p>
 </div>
@@ -44,7 +44,7 @@ Current Status: [ Awake / Coding / Sleeping ]
 <div align="center">
 <!-- Use skillicons.dev for clean, colorful icons -->
 <a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,ts,python,react,nextjs,nodejs,express,mongodb,postgres,git,docker,linux%26theme%3Ddark" />
+<img src="https://skillicons.dev/icons%3Fi%3Djs,ts,python,react,nextjs,nodejs,express,mongodb,postgres,git,docker,linux%26theme%3Ddark" />
 </a>
 </div>
 
@@ -53,41 +53,14 @@ Current Status: [ Awake / Coding / Sleeping ]
 <div align="center">
 <!-- Theme 'tokyonight' gives it a nice neon/anime aesthetic -->
 <a href="https://github.com/Spargerx">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSpargerx%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSpargerx%26layout%3Dcompact%26theme%3Dtokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api%3Fusername%3DSpargerx%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSpargerx%26layout%3Dcompact%26theme%3Dtokyonight"/>
 </a>
 </div>
-
-🎌 Otaku Corner
-
-Here are my top picks! Feel free to debate me in the issues tab. (¬‿¬)
-
-Top 3 Anime
-
-Top 3 Manga/LN
-
-Waifu/Husbando
-
-1. [Anime Name]
-
-1. [Manga Name]
-
-🏆 [Character Name]
-
-2. [Anime Name]
-
-2. [Manga Name]
-
-
-
-3. [Anime Name]
-
-3. [Manga Name]
-
 
 
 <div align="center">
 <p><i>See you space cowboy...</i></p>
 <!-- Visitor Counter -->
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DSpargerx%26color%3Dblueviolet%26style%3Dflat-square%26label%3DTRAINING%2BSESSION" alt="Visitor Count" />
+<img src="https://komarev.com/ghpvc/%3Fusername%3DSpargerx%26color%3Dblueviolet%26style%3Dflat-square%26label%3DTRAINING%2BSESSION" alt="Visitor Count" />
 </div>
