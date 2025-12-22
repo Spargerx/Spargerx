@@ -7,7 +7,7 @@ Replace all [Bracketed Text] with your own details.
 
 <!-- HEADER IMAGE: Replace this URL with a GIF from your favorite anime (e.g., "coding anime gif" on Giphy) -->
 
-<img src="https://www.google.com/search?q=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RxeXF1aHM5bHlzZml3aDV6Y3A0Zmd5YjZ6b3k2aXZ6b3k2aXZ6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMc7w09YdHVgBbLxWC/giphy.gif" width="100%" />
+<img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RxeXF1aHM5bHlzZml3aDV6Y3A0Zmd5YjZ6b3k2aXZ6b3k2aXZ6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMc7w09YdHVgBbLxWC/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtlaTVicGtqbGlvcTl1cHVjZmtwMm1xeWxnd2t3Z3FwZ3hiNzBtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SO7qOXXG1lmRdJE8OG/giphy.gif)" width="100%" />
 
 <h1 align="center"> Konnichiwa! I'm Spargerx (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ </h1>
 
