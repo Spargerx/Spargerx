@@ -29,7 +29,7 @@ Replace all [Bracketed Text] with your own details.
 
 "Whatever you lose, you'll find it again. But what you throw away you'll never get back." – Kenshin Himura
 
-Current Status: [ Awake / Coding / Sleeping ]
+Current Status: [Sleeping]
 
 🔭 Current Quest: Working on [Project Name] to level up my backend skills.
 
@@ -61,7 +61,6 @@ Current Status: [ Awake / Coding / Sleeping ]
 
 
 <div align="center">
-<p><i>See you space cowboy...</i></p>
 <!-- Visitor Counter -->
 <img src="https://komarev.com/ghpvc/%3Fusername%3DSpargerx%26color%3Dblueviolet%26style%3Dflat-square%26label%3DTRAINING%2BSESSION" alt="Visitor Count" />
 </div>
