@@ -9,7 +9,7 @@ Replace all [Bracketed Text] with your own details.
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWFsdG5jbDN2ajk5ZXF4dXIxczMzMjJqeHA2MDNwdDVkOHFvMDdueCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FWtVYDHIxgGgE/giphy.gif" width="100%" />
 
-<h1 align="center"> Hey there Traveller! I'm Mohit (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ </h1>
+<h1 align="center"> Hey there Traveller! 👋 </h1>
 
 <h3 align="center"> ⚡ Full Stack | 📱 App Developer </h3>
 
