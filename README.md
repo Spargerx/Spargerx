@@ -28,10 +28,34 @@ Replace all [Bracketed Text] with your own details.
 
 # 🍥 About Me
 
-"Whatever you lose, you'll find it again. But what you throw away you'll never get back." – Kenshin Himura
+"Come to think of it, I ran down this road on the day of the entrance ceremony, too.
 
-Current Status: Sleeping
+I was thinking, "I've gotta do something!" as I ran.
 
+And "What am I gonna do?"
+
+And "Is this how I'm gonna grow up?"
+
+Listen up, me...
+
+The me of that day, you don't have to worry.
+
+You'll find them soon enough.
+
+You'll find something that you can do.
+
+Something you can lose yourself in.
+
+And a place that...
+
+A place that...
+
+A place that means more than anything to you!" 
+
+<p>– Yui Hirasawa</p>
+----------------------------------------------------------------------
+<p>Current Status: Sleeping 😴</p>
+<p>----------------------------------------------------------------------</p>
 🔭 Current Quest: Working on App Development to gain experience in Flutter framework.
 
 🌱 Training Arc: Currently learning Dart & Graphic Designing.
