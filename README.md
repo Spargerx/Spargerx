@@ -27,7 +27,7 @@ Replace all [Bracketed Text] with your own details.
 </div>
 
 # 🍥 About Me
-
+<img src="https://static.wikia.nocookie.net/all-worlds-alliance/images/f/f7/326131.jpg/revision/latest?cb=20190711033628" align=right width=30% />
 "Come to think of it, I ran down this road on the day of the entrance ceremony, too.
 
 I was thinking, "I've gotta do something!" as I ran.
