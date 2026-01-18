@@ -1,5 +1,4 @@
 <!--
-ANIME GITHUB PROFILE TEMPLATE
 Replace all [Bracketed Text] with your own details.
 -->
 
