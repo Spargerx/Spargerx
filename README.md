@@ -13,7 +13,6 @@ Replace all [Bracketed Text] with your own details.
 <h3 align="center"> ⚡ Full Stack | 📱 App Developer </h3>
 
 <!-- SOCIALS -->
-<!--
 <p align="center">
 <a href="https://www.linkedin.com/in/ydv-mohit">
   <img draggable="false" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -22,7 +21,6 @@ Replace all [Bracketed Text] with your own details.
   <img draggable="false" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </p>
--->
   <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=Spargerx&style=for-the-badge&color=1C8C8C" align=center >
 </div>
 
