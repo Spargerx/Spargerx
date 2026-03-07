@@ -25,32 +25,16 @@ Replace all [Bracketed Text] with your own details.
 </div>
 
 # 🍥 About Me
-<img src="https://static.wikia.nocookie.net/all-worlds-alliance/images/f/f7/326131.jpg/revision/latest?cb=20190711033628" align=right width=30% />
-"Come to think of it, I ran down this road on the day of the entrance ceremony, too.
 
-I was thinking, "I've gotta do something!" as I ran.
+<img src="https://lh3.googleusercontent.com/pw/AP1GczPbigZ7KevB-kYXpjod9gKSTHIzJ_ZAgFwVpht61JtLUlRoRKwWRYGVdmXHtkvMTO5LIPcaWfKtxlzMj9c0tbtb_i3lvkeMNloQQWXa5G85L7N9qGpYiJ5heuy24GOhZ8in7C-8J3hqvI3jP_n7uZvj=w498-h281-s-no-gm" width="30%" align="center"/>
 
-And "What am I gonna do?"
 
-And "Is this how I'm gonna grow up?"
+Flowers bloom and wither,</br>
 
-Listen up, me...
+another season passes.</br>
 
-The me of that day, you don't have to worry.
+Spring, where are you?</br>
 
-You'll find them soon enough.
-
-You'll find something that you can do.
-
-Something you can lose yourself in.
-
-And a place that...
-
-A place that...
-
-A place that means more than anything to you!" 
-
-<p>– Yui Hirasawa</p>
 ----------------------------------------------------------------------
 <p>Current Status: Sleeping 😴</p>
 <p>----------------------------------------------------------------------</p>
